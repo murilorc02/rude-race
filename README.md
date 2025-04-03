@@ -1,34 +1,12 @@
+# Clone este repositório
+git clone https://github.com/murilorc02/rude-race
 
+# Acesse a pasta do projeto
+cd rude-race
 
-✅
+# Instale as dependências
+npm i
 
-❌
-
-# 
-
-
-
-DUTRA e Alisson
-bird
-
-miguel e andrei
-merge tower
-
-jean e cassius
-tower defense
-
-diego e murilo
-carrinho
-
-pedro e lucas 
-space
-
-lucas Allan
-pacman
-
-gustavo e pedro
-
-
-
-
+# Inicie o servidor de desenvolvimento
+npm run start
 
