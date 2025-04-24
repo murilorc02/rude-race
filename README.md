@@ -1,5 +1,5 @@
 # Clone este repositório
-git clone https://github.com/murilorc02/rude-race
+git clone https://github.com/diegometring/rude-race
 
 # Acesse a pasta do projeto
 cd rude-race
